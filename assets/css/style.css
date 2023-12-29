@@ -548,7 +548,7 @@ main {
 
 .service-item-title { margin-bottom: 7px; }
 
-.service-item-title:hover {
+.highlight-link:hover {
   color: var(--orange-yellow-crayola);
 }
 
