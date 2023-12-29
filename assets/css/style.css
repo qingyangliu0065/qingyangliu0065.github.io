@@ -548,6 +548,10 @@ main {
 
 .service-item-title { margin-bottom: 7px; }
 
+.service-item-title:hover {
+  color: var(--orange-yellow-crayola);
+}
+
 .service-item-text {
   color: var(--light-gray);
   font-size: var(--fs-6);
