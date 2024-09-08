@@ -770,6 +770,16 @@ main {
 
 .article-title { margin-bottom: 30px; }
 
+.resume-content {
+  height: 115vh; /* Make sure it fills the entire view height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.resume-content embed {
+  border: none;
+}
 
 /**
  * education and experience 
